@@ -1,9 +1,26 @@
+<<<<<<< HEAD
 /vendor/
 /composer.lock
 .idea
+=======
+>>>>>>> core-php/master
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 .DS_Store
+<<<<<<< HEAD
 .php-cs-fixer.cache
 phpunit.xml
+=======
+.idea/
+.vscode/
+/vendor/
+/composer.lock
+.phpdoc/
+phpdoc.xml
+.php-cs-fixer.cache
+.phpstan.neon
+phpunit.xml
+.phpunit.result.cache
+.env
+>>>>>>> core-php/master
