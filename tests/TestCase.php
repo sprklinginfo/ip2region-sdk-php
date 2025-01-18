@@ -19,18 +19,16 @@
 
 namespace ip2region\Tests;
 
-<<<<<<< HEAD
+
 use ip2region\Ip2Region;
 
-=======
->>>>>>> core-php/master
+
 class TestCase extends \PHPUnit\Framework\TestCase
 {
     public static function now()
     {
         return microtime(true) * 1000;
     }
-<<<<<<< HEAD
 
     public function test()
     {
@@ -43,6 +41,5 @@ class TestCase extends \PHPUnit\Framework\TestCase
         }
         $this->assertTrue(true);
     }
-=======
->>>>>>> core-php/master
+
 }

@@ -5,8 +5,15 @@ This is a merged version of the [github.com/chinayin/ip2region-sdk-php](https://
 
 ### Installation
 
-运行环境要求 PHP 7.1 及以上版本，以及[cURL](http://php.net/manual/zh/book.curl.php)。
+运行环境要求 PHP 8.1 及以上版本，以及[cURL](http://php.net/manual/zh/book.curl.php)。
 
+
+### Other relevant Repos
+
+定期去下面的仓库下载数据库文件替换assets下的xdb文件
+
+[github.com/zoujingli/ip2region](https://github.com/zoujingli/ip2region)
+[github.com/lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)
 
 
 ### Quick Examples
